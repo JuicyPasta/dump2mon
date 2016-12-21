@@ -26,7 +26,7 @@ GMAIL_USER = '...'
 GMAIL_PASSWORD = '...'
 ```
 
-Start the listener, start searching for identifiers, emails you if anything turns up.
+Start the listener, start searching for identifiers, recieve an email if anything turns up.
 ```py
 ./listener.py
 ```
